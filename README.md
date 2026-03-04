@@ -15,6 +15,7 @@ Search Book – User searches by title or author and matching books are displaye
 Reports – View borrowed books by member, book availability, and top borrowers.
 
 Exit – Application closes (data is stored only in memory).
+
 <img width="332" height="324" alt="image" src="https://github.com/user-attachments/assets/0b651c3d-6923-4b20-bc5c-2a3440370913" />
 <img width="344" height="283" alt="image" src="https://github.com/user-attachments/assets/72c78eb8-a127-40bd-b117-7a17b9c2c3a6" />
 <img width="536" height="290" alt="image" src="https://github.com/user-attachments/assets/d49cdc98-e8d3-4527-9c75-428e2a94e8cb" />
